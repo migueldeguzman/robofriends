@@ -1,2 +1,2 @@
 # robofriends
-A react basic responsive ui project
+A basic responsive ui project powered by react
